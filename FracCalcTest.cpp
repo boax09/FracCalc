@@ -1,4 +1,4 @@
-#include "StdFuncs.h"
+#include "stdFuncs.h"
 
 #include <iostream>
 #include <string>
@@ -13,7 +13,7 @@ int main(int argc, char* argv[]){
 		int testNum= atoi(argv[1]);
 		if(testNum==1){
 		
-		int x =1;
+		assertEquals(9,9,"9=9");	
 		
 		
 		
